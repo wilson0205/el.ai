@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About el.ai
-permalink: /about/
+permalink: "/about/"
+layout: page
 tags: about
 ---
 
