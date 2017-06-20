@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence Revenue to Reach $36.8 Billion Worldwide by 2025, According
   to Tractica
-date: 2017-06-20 11:46:00 Z
+date: 2016-08-26 11:46:00 Z
 ---
 
 Artificial intelligence (AI) is poised to have a transformative effect on consumer, enterprise, and government markets around the world. An umbrella term that refers to information systems inspired by biological systems, AI encompasses multiple technologies including machine learning, deep learning, computer vision, natural language processing (NLP), machine reasoning, and strong AI.
